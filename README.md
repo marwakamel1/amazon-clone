@@ -1,3 +1,10 @@
+Demo : https://clone-d007d.web.app/
+
+The app built using React,Redux,cloud functions as backend , firestore for the database,  
+authentication and full payment functionality added using stripe under test mode.
+
+Note : you can complete the payment by filling the card details via typing 42 continuously
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
